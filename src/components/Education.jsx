@@ -5,7 +5,7 @@ export const Education = ({ date, logo, career }) => {
     {
       date: "09/22 - Current",
       logo: upv,
-      career: "Máster Degree in Interactive Technology and Digital Fabrication",
+      career: "Master Degree in Interactive Technology and Digital Fabrication",
     },
     {
       date: "10/2019 - Current",
