@@ -14,19 +14,19 @@ export const Projects = () => {
     {
       link: "https://github.com/Daniriatu/RickAndMorty.git",
       title: "Rick And Morty",
-      description: "A website about characters in the show",
+      description: "A website about characters in the show.",
       imgUrl: projImg1,
     },
     {
       link: "https://github.com/Daniriatu/PokemonGame.git",
       title: "Guess Pokemon Game",
-      description: "Come and see how much pokemons you know",
+      description: "Come and see how much pokemons you know.",
       imgUrl: projImg2,
     },
     {
       link: "https://github.com/Daniriatu/Small-Blog.git",
       title: "Personal Blog",
-      description: "A blog system made with Vue and Express",
+      description: "A blog system made with Vue and Express.",
       imgUrl: projImg3,
     },
   ];
